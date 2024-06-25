@@ -1,0 +1,24 @@
+# ninja log v6
+1526	1742	7410084247011671	DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp	b408eb6d489670b2
+297	924	7410079587440916	.qt/qml_imports/DigitalAnalogIODemo_build.cmake	2be9f5101ed062f1
+2024	2767	7410084250442484	DigitalAnalogIODemo.exe	ed8b4e439dc295ce
+1743	2023	7410084247629999	CMakeFiles/DigitalAnalogIODemo.dir/DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp.obj	1b1bb2203df5a0b2
+297	924	7410079587440916	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/.qt/qml_imports/DigitalAnalogIODemo_build.cmake	2be9f5101ed062f1
+2802	8913	7410079606837729	CMakeFiles/DigitalAnalogIODemo.dir/DigitalAnalogIODemo_autogen/mocs_compilation.cpp.obj	9cbed6b208b72a6c
+1526	1742	7410084247011671	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp	b408eb6d489670b2
+101	1524	7410084231213904	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/timestamp	6ff322b2be491ef0
+101	1524	7410084231213904	DigitalAnalogIODemo_autogen/timestamp	6ff322b2be491ef0
+101	1524	7410084231213904	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/mocs_compilation.cpp	6ff322b2be491ef0
+2812	8609	7410079606899057	CMakeFiles/DigitalAnalogIODemo.dir/data.cpp.obj	1962be407f8ca9a0
+101	1524	7410084231213904	DigitalAnalogIODemo_autogen/mocs_compilation.cpp	6ff322b2be491ef0
+2807	10100	7410079606887596	CMakeFiles/DigitalAnalogIODemo.dir/main.cpp.obj	2177d465da425c78
+65	644	7410076173258838	CMakeFiles/clean.additional	baedbe210acaa455
+645	679	7410076179061756	clean	577b940aee94fbd7
+140	1732	7410084394417255	DigitalAnalogIODemo_autogen/timestamp	6ff322b2be491ef0
+140	1732	7410084394417255	DigitalAnalogIODemo_autogen/mocs_compilation.cpp	6ff322b2be491ef0
+140	1732	7410084394417255	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/timestamp	6ff322b2be491ef0
+140	1732	7410084394417255	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/mocs_compilation.cpp	6ff322b2be491ef0
+1734	2293	7410084414433710	DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp	b408eb6d489670b2
+1734	2293	7410084414433710	C:/Users/Danish/Documents/DigitalAnalogIODemo/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp	b408eb6d489670b2
+2293	2611	7410084415949822	CMakeFiles/DigitalAnalogIODemo.dir/DigitalAnalogIODemo_autogen/EWIEGA46WW/qrc_qml.cpp.obj	1b1bb2203df5a0b2
+2612	3379	7410084419131146	DigitalAnalogIODemo.exe	ed8b4e439dc295ce
